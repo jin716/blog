@@ -1,4 +1,4 @@
-**联系方式
+##联系方式
 
 * 手机/微信号：18688862168 
 * Email：doug.lea@foxmail.com
@@ -18,7 +18,9 @@
 ##技能清单
 
 JAVA技能：
-* 精通Java。
+* 精通Java
+* 掌握J2EE，对ERP软件，银行后台交易等业务系统,MVC模型，面向服务模型有多年开发经验。
+* 高效编写业界级RestAPI，并能针对中小型应用设计分布式部署方案。
 * 对多线程有深入理解，对concurrent包，collection包源码有深入理解，并熟练使用。
 * 深入理解JVM运行机制及内存模型，有JVM参数调优经验, 有针对heapdump进行分析优化的经验。
 * 熟练使用BTrace对线上JVM进行性能分析，根据回馈做性能调优，并理解其原理。
@@ -32,10 +34,12 @@ JAVA技能：
 其他技能：
 * Web开发：PHP/JQuery/Boostrap/
 * 数据库相关：Oracle/MySQL/SQLite/Redis
+* 服务器：Tomcat/Nginx
 * 版本管理、文档和自动化部署工具：Svn/Git/Maven
 * 单元测试：JUnit
 * 开放平台：AWS/微博开放平台/微信应用开发
 * 熟练的IDE:MyEclipse/Intellij/VIM/Sublime/PyCharm
+* 序列化：Protobuf/XML/Json
 * 英语:CET-6/口语流利  
 
 ##工作经历
