@@ -42,7 +42,8 @@ JAVA技能：
 * 序列化：Protobuf/XML/Json
 * 消息中间件：ibmMQ/RocketMQ
 * 脚本：Python
-* 英语:CET-6/口语流利  
+* 英语:CET-6/口语流利
+* 其他：shadesock/路由openWRT翻墙/
 
 ##工作经历
 ####CCF监控平台
