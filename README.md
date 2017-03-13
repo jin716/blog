@@ -47,15 +47,18 @@ JAVA技能：
 
 
 ##工作经历
-####CCF监控平台
 
+###### 工银CCF敏捷监控平台
+###### 工银支付团队PSCP核心平台服务化重构
+###### 工银国际清算结算业务
+###### 工银CCF平台化治理开发
 
-
+###### COME
 
 
 ##开源项目
 
-* ZhihuTag: https://github.com/jin716/zhihuTag （原创Repo,建设中）
+###### ZhihuTag: https://github.com/jin716/zhihuTag （原创Repo,建设中）
 根据话题关键字，搜索对此关键字最擅长的人，并根据这些用户在该话题下的赞数进行排序。  
 
 工具：Python/BeautifulSoup/Redis/Mysql/RestAPI   
