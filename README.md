@@ -34,6 +34,7 @@ JAVA技能：
 其他技能：
 * Web开发：PHP/JQuery/Boostrap/
 * 数据库相关：Oracle/MySQL/SQLite/Redis
+* 分布式: Hadoop/Docker
 * 服务器：Tomcat/Nginx
 * 版本管理、文档和自动化部署工具：Svn/Git/Maven
 * 单元测试：JUnit
