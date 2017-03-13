@@ -39,7 +39,7 @@ JAVA技能：
 * 版本管理、文档和自动化部署工具：Svn/Git/Maven
 * 单元测试：JUnit
 * 开放平台：AWS/微博开放平台/微信应用开发
-* 熟练的IDE:MyEclipse/Intellij/VIM/Sublime/PyCharm
+* IDE:MyEclipse/Intellij/VIM/Sublime/PyCharm
 * 序列化：Protobuf/XML/Json
 * 消息中间件：ibmMQ/RocketMQ
 * 脚本：Python
@@ -51,15 +51,14 @@ JAVA技能：
 
 
 
-##开源项目和作品
 
-（这一段用于放置工作以外的、可证明你的能力的材料）
 
 ##开源项目
 
 * ZhihuTag: https://github.com/jin716/zhihuTag （原创Repo,建设中）
 根据话题关键字，搜索对此关键字最擅长的人，并根据这些用户在该话题下的赞数进行排序。  
-比如搜索：‘JVM’  搜索结果：   
+比如搜索：‘JVM’  搜索结果：  
+
   .RednaxelaFX 21k+赞    
   .紫杉 510赞  
   .vczh  300赞   
@@ -68,6 +67,8 @@ JAVA技能：
   
   工具：Python/BeautifulSoup/Redis/Mysql/RestAPI 
  
-  
+  技术实现：
+  ** 通过Redis中央队列的形式，对知乎的标签页进行广度优先遍历，通过FIFO，实现分布式爬虫,并协同抓取全知乎的标签及子标签的树状结构，将此树状结构存储入MySQL数据库。
+  ** 
   
   
