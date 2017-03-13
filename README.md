@@ -32,7 +32,7 @@ JAVA技能：
 * 良好的编码风格,命名规范。
 
 其他技能：
-* Web开发：PHP/JQuery/Boostrap/
+* Web开发：PHP/JQuery/Boostrap
 * 数据库相关：Oracle/MySQL/SQLite/Redis
 * 分布式: Hadoop/Docker
 * 服务器：Tomcat/Nginx
