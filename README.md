@@ -40,6 +40,7 @@ JAVA技能：
 * 开放平台：AWS/微博开放平台/微信应用开发
 * 熟练的IDE:MyEclipse/Intellij/VIM/Sublime/PyCharm
 * 序列化：Protobuf/XML/Json
+* 脚本：Python
 * 英语:CET-6/口语流利  
 
 ##工作经历
